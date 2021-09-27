@@ -1,0 +1,14 @@
+body{
+    background: rgb(78, 75,74);
+    color: white;
+}
+
+button{
+    background: yellowgreen;
+    border-radius: 10px;
+    width: 5rem;
+    font-size: 2rem;
+    margin-right: 10px;
+    
+    
+}
